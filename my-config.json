@@ -23,7 +23,7 @@
 	"workbench.tree.renderIndentGuides": "none",
 	"workbench.tree.indent": 8,
 	"explorer.compactFolders": false,
-	"window.zoomLevel": 2.5,
+	"window.zoomLevel": 2,
 	"workbench.statusBar.visible": false, //mudar pra true caso queira ver a status bar
 	"custom-ui-style.electron": {
 		"titleBarStyle": "hiddenInset",
